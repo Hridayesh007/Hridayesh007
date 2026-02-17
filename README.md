@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I'm Puttamraju Krishna Hridayesh Kumar! ⚡
+# I'm Puttamraju Krishna Hridayesh Kumar! 
 
 ### 🎓 3rd Year ECE Student | VLSI Specialization
 
