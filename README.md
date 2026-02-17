@@ -37,9 +37,6 @@ I am an Electronics and Communication Engineering undergraduate with a strong fo
 - **Object-Oriented & DSA:** Java
 - **Scripting & Systems:** Python (Basics), C (Basics)
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark)
 
 ## 📫 Let's Connect
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/krishna-hridayesh-kumar-puttamraju-2b3681295/
