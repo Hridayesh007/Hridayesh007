@@ -25,7 +25,7 @@ I am an Electronics and Communication Engineering undergraduate with a strong fo
 - 🔭 I’m currently diving deep into **RTL Design, FPGA implementation, and Verilog**.
 - 🌱 Sharpening my problem-solving skills with **Data Structures and Algorithms in Java**.
 - 🛠️ Interested in ASIC flow, digital system design, and hardware verification.
-- ⚡ Fun fact: I find debugging a hardware testbench just as satisfying as passing all test cases in LeetCode!
+<!-- ⚡ Fun fact: I find debugging a hardware testbench just as satisfying as passing all test cases in LeetCode!-->
 
 ## 💻 My Tech Stack
 
