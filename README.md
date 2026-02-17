@@ -42,20 +42,20 @@ I am an Electronics and Communication Engineering undergraduate specializing in 
 - Basic ASIC Design Flow
 
 ### 🔷 Programming & Problem Solving
-- **Java** (DSA – Arrays, Recursion, Backtracking, DP)
+- **Java** 
 - Object-Oriented Programming (OOP)
 - Python (Basics)
 - C (Basics)
 
 ---
-
+<!--
 ## 📂 Projects
 - 🔹 **4-bit ALU Design** (Verilog)
 - 🔹 **UART Communication Module** (FPGA)
 - 🔹 **FSM-based Digital Controllers**
 - 🔹 **Core Digital Modules** (MUX, Counters, Flip-Flops)
 
----
+-->
 
 ## 📈 Current Learning Focus
 - Dynamic Programming (Optimization Problems)
